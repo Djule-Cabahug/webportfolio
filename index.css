@@ -1,0 +1,97 @@
+* {
+	font-family: "Montserrat", sans-serif;
+}
+
+body {
+	background-color: #FFFFFF;
+}
+
+#navbar {
+	position: fixed;
+	z-index: 5;
+}
+
+#fire-logo {
+	width: 50px;
+	height: 50px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#landing {
+	background-color: #aee7d7; 
+	padding-top: 9.5rem;
+	padding-bottom: 9.5rem;
+}
+
+#landing-title {
+	font-size: 4rem;
+	font-weight: 600;
+}
+
+#landing-text {
+	text-align: justify;
+	text-justify: inter-word;
+	font-size: 20px;
+}
+
+#landing-img {
+	height: 300px;
+	width: 400px;
+}
+
+#projects-title {
+	font-weight: 700;
+}
+
+#tools {
+	background-color: #dafff5;
+}
+
+#tools-title {
+	font-weight: 700;
+	margin-bottom: 4rem;
+}
+
+@media (min-width: 596px) {
+	.tool-img {
+		padding-left: 5rem;
+		padding-right: 5rem;
+	}
+}
+
+@media (min-width: 780px) {
+	.tool-img {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
+
+#contacts-title {
+	font-weight: 700;
+}
+
+.google-map {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.contact-button {
+	background-color: #aee7d7;
+	border-radius: 10px;
+	font-size: 18px;
+}
+
+footer {
+	background-color: #aee7d7;
+}
