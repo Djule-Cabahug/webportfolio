@@ -1,5 +1,5 @@
 "capstone": {
 	"liveLink": "",
-	"name": "Capstone 1 - Developer Portfolio",
+	"name": "Capstone 1 - Portfolio",
 	"isMulti": false
 }
