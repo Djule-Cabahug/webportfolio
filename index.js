@@ -1,5 +1,5 @@
 "capstone": {
-	"liveLink": "",
-	"name": "Capstone 1 - Portfolio",
+	"liveLink": "https://djule-cabahug.github.io/webportfolio/",
+	"name": "Djule Cabahug",
 	"isMulti": false
 }
