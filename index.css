@@ -46,6 +46,19 @@ a:hover {
 	font-weight: 700;
 }
 
+#projects a {
+	text-decoration: none;
+	color: #000;
+}
+
+#project-3 img {
+	margin-bottom: 70px;
+}
+
+#project-3 h5 {
+	margin-bottom: 20px;
+}
+
 #tools {
 	background-color: #dafff5;
 }
